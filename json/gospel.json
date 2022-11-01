@@ -33,18 +33,11 @@
         "references": ["Romans 3:23-26", "Revelation 21:6-7"]
       }
     ]
-    },
-    {
-    "sections":
-    [
-      {
-        "text": "If you would like to know more about following Jesus, please contact us today!"
-      }
-    ]
     }
   ],
   "footer":
   {
+    "text": "If you would like to know more about following Jesus, please contact us today!",
     "phone": "(334) 541-4444",
     "email": "fbceministry@gmail.com"
   }
