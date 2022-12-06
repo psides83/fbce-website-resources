@@ -278,5 +278,74 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20221206",
+    "date": "Dec 6, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "…and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse…",
+    "title": "Unlikely Vessels",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Joshua 6:22-25", "Ruth 4:13-17"]
+          }
+        ]
+      },
+
+      {
+        "sections": [
+          {
+            "text": "No one could have anticipated this. Two women, one a prostitute and the other a Moabite. Both of them came from pagan backgrounds that did not honor Israel’s God as the one true God. Yet, both women demonstrated their reverence for the LORD. And these are the vessels through whom God brought his eternal Son into the world! This shows the infinite wisdom and grace of God!"
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Rahab feared the LORD because she and all of Jericho had heard what the God of Israel had done in parting the Red Sea and causing his people to conquer all their enemies",
+            "references": ["Joshua 2:8-11"]
+          },
+          {
+            "text": "She acted upon her knowledge of God by protecting the two spies of Israel at great risk of her own wellbeing. Just when it seemed that God’s promise of land to Abraham’s descendants would not come to be, the LORD made a way through a most unlikely servant and his people conquered their enemy. Rehab assimilated into Israel by marrying Salmon. Their son Boaz would become the kinsman redeemer and husband of another young foreign woman."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Ruth was a Moabite woman. Ethnically, the Moabites were related to the Israelites",
+            "references": ["Genesis 19"]
+          },
+          {
+            "Text": "However, they were a pagan nation, which means they did not worship Yahweh as the one true God. Yet, Ruth had married an Israelite, and after she became a widow, she stayed with her mother-in-law Naomi rather than go back to the familiar land of her own people. She risked never remarrying in the land of the Israelites because of her love for Naomi and reverence for the LORD",
+            "references": ["Ruth 1:15-17"]
+          },
+          {
+            "text": "This foreigner became the great grandmother of the greatest earthly king ever to sit on the throne of Jerusalem! Just when it seemed that God’s promise to Judah was in jeopardy, the LORD preserved Judah’s royal line through a most unlikely servant.",
+            "references": ["Gensis 49:10"]
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "In the story of Rehab, it is Joshua who spares her life and her family. Joshua is a form of Yeshua meaning “to save or deliver.” The English version of this name is Jesus. Boaz shows himself to be gracious, compassionate, and righteous to rescue two widows from poverty and hopelessness (something Boaz’ ancestor Judah had been unwilling to do for Tamar",
+            "references": ["Genesis 36"]
+          },
+          {
+            "Text": "As Joshua spared the lives of Rahab and her family, so God has spared the lives of all who trust in his Son. As Boaz redeemed and restored Ruth and Naomi at great cost to himself, so Christ redeemed us by giving up his life for our sins. “He comes to make his blessing flow, far as the curse is found!”"
+          }
+        ]
+      }
+    ]
   }
 ]
