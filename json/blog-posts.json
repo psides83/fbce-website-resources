@@ -420,5 +420,61 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20221208",
+    "date": "Dec 8, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "Yet, God still chose to dwell with his people.",
+    "title": "Where We Meet God",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["2 Samuel 7", "John 1:14-18"]
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "God made a promise to King David that his son Solomon would build the temple for the LORD’s presence to dwell among his people",
+            "references": ["2 Samuel 7:12-13"]
+          },
+          {
+            "text": "But this promise actually stretches back all the way to the Garden in Eden. From the beginning of creation, God’s plan was to dwell with mankind on the earth. That sounds crazy, right? God is above and beyond time and space; why would he want to live with mankind? Yet, this is the story of the Bible. God created man and woman and placed them in a garden, a sanctuary where they would enjoy his presence continually. God looked on all of his creation and he loved every bit of it. But when sin entered the garden, Adam and Eve were kicked out as a consequence."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Yet, God still chose to dwell with his people. He instructed Moses and the Israelites to build a tabernacle where they could meet with God. He allowed David’s son Solomon to construct the great Temple in Jerusalem, which became the center of all Jewish worship of God. The design of both the tabernacle in the wilderness and the temple in Jerusalem closely resembled the elements of the Garden in Eden. This would remind every worshiper that creation itself was intended to be a home for God and his people. But it would also remind them that God is holy and can only be encountered on his own terms. When the apostle John writes that “the Word became flesh and dwelt among us,” the word he uses for “dwelt” is the same Greek word for tabernacle. This is no coincidence. John intended to communicate that Jesus is the true Garden, the true Tabernacle, and the true Temple. Jesus is the place where we meet God himself!"
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "In Jesus, we see a God who wants to dwell with his people. In Jesus, we see a God who comes down in the flesh. Only through Jesus can we see the one true God. Only through Jesus can we have our sins forgiven and approach his holiness. And only through Jesus can we dwell with this God forever!"
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "“And I heard a loud voice from the throne saying, “Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God.”",
+            "references": ["Revelation 21:3"]
+          }
+        ]
+      }
+    ]
   }
 ]
