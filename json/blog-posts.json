@@ -610,5 +610,53 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20221211",
+    "date": "Dec 11, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "For many, Christmas is not the most wonderful time of the year.",
+    "title": "Embrace Hard Things",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Matthew 1:12-16", "Jeremiah 29:1-14]
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Everyone loves to quote Jeremiah 29:11, but few actually understand the context in which this great promise emerged. Judah had been taken into captivity by Babylon. Throughout the Babylonian invasion there were many false prophets who were telling the people that it was not God’s plan for Jerusalem to fall, that Judah would always stand against foreign invasion. But these prophets only told the people what they wanted to hear. At best, it was wishful thinking on their part. At worst, this message was demonic in its source. This is a lesson for those of us who might resonate with teachers and preachers who tell us what we already want to hear. The Lord may not be in message so beware."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "In reality, it was God’s plan that a large population of his people would be taken captive by Nebuchadnezzar. This is what he had spoken through Isaiah and Jeremiah. So, when the people became confused by contradictory messages, they needed a reminder. God told them to stay put, and trust his plan. Embrace the place that God has put you, even if it isn’t home. God’s instruction to his people was very simple. “Build houses and live in them; plant gardens and eat their produce. 6 Take wives and have sons and daughters; take wives for your sons, and give your daughters in marriage, that they may bear sons and daughters; multiply there, and do not decrease. 7 But seek the welfare of the city where I have sent you into exile, and pray to the Lord on its behalf, for in its welfare you will find your welfare”",
+            "references": ["Jeremiah 29:5-7"]
+          },
+          {
+            "text": "The deportation of God’s people to Babylon made it seem like God was abandoning them. But Matthew’s genealogy reminds us that they continued to live life. In fact, they flourished in such a way that they continued to bear children, even in a culture that was dark and broken. The LORD sustained them, and the building of their families would ultimately lead to the birth of the promised Savior from God."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Whatever the hardship you face, don’t fight it! As the apostle Paul says 2 Corinthians, “For this light and momentary affliction is preparing for us an eternal weight of glory beyond all comparison.” Advent reminds us that even the hard things are a part of God’s plan. Embrace the hardship. Be faithful to what God has already revealed in his word. Rest in his goodness and trust him to reveal the full picture in time. What he has promised, he will do. We need not look any further than Jesus to remember that he is faithful and true."
+          }
+        ]
+      }
+    ]
   }
 ]
