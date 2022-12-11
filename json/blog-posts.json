@@ -532,5 +532,92 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20221210",
+    "date": "Dec 10, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "For many, Christmas is not the most wonderful time of the year.",
+    "title": "Sing the Songs of Advent, Even Through Tears",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Psalm 137"]
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "For many, Christmas is not the most wonderful time of the year. It is a reminder that there will be empty seats at the table. It’s another source of financial strain or pressure to find the perfect gifts. It’s the mark of another year gone by and the reality that we can’t stop the passing of time, the aging of our bodies, or the rapid growth of our children. But the Psalms can offer a helpful release for those who need it this time of year because they neither diminish the harshness of life nor leave us to despair."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "After hundreds of years of bad kings and a divided kingdom, both the northern kingdom (Israel) and the southern kingdom (Judah) found themselves under the rule of Nebuchadnezzar. This fierce king carried off most of the Jewish inhabitants and attempted to strip them of their heritage and even their faith in Yahweh. It would take 70 years for them to be able to return to their homeland, which meant that an entire generation would die in a foreign land",
+            "references": ["Jeremiah 25:11"]
+          },
+          {
+            "text": "Religious and cultural identity became more difficult to maintain. Many, if not all, Jews wondered if the God who bound himself to their fathers Abrahama, Isaac, and Jacob had abandoned them forever. Will God keep his promises? Does God really love us? These are the very circumstances in which Psalm 137 was written."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The Jews asked, “How can we sing the LORD’s song in a foreign land?”",
+            "references": ["Psalm 137:4"]
+          },
+          {
+            "text": "We might say, “How can we sing ‘Joy to the World’ when all we feel inside is sorrow. It may seem there is no encouragement in this psalm. After all, it ends with the notion of Babylonian children being “dashed against the rocks”",
+            "references": ["Psalm 137:9"]
+          },
+          {
+            "text": "But herein lies the hope. We as the people of God cannot allow ourselves to forget the promises of God or the things he has already brought us through. The Jews knew from the Scripture that God would ultimately deliver them",
+            "references": ["Jeremiah 25:12-13"]
+          },
+          {
+            "text": "And they remembered his great deliverance in the past",
+            "references": ["Psalm 137:7"]
+          },
+          {
+            "text": "This became the source of their continued hope and provided the resolve they needed to simply trust the LORD even when the situation was dark. It also gave them the confidence to pray and to sing even when they didn’t feel like it."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "When we lift our eyes to the LORD, we inevitably have to get them off of ourselves. This frees us to have a godly perspective and trust that God is in control and that he cares for us. The reason we can trust him is that we have already seen his deliverance in the cross of Christ. There, Jesus freed us from the penalty of sin and the power of death. One day soon, he will come again to free us from their reality altogether! So, sing the song of Zion in a foreign land. Sing the songs of Advent that acknowledge the dark realities of this earthly life but also remind us of the glorious future that awaits those who trust in the coming King. AMEN!"
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Hail the heav’nly Prince of Peace!\n
+            Hail the Sun of Righteousness!\n
+            Light and life to all He brings,\n
+            Ris’n with healing in His wings.\n
+            Mild He lays His glory by,\n
+            Born that man no more may die;\n
+            Born to raise the sons of earth,\n
+            Born to give them second birth.\n\n
+            ⸻ Hark! The Herald Angels Sing\n
+                        Charles Wesley"
+          }
+        ]
+      }
+    ]
   }
 ]
