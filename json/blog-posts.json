@@ -722,5 +722,49 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20221213",
+    "date": "Dec 13, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "We wouldn’t naturally think of Genesis 3:15 as the quintessential Christmas passage.",
+    "title": "The Seed of the Woman",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Genesis 3:15", "Isaiah 7:14", "Matthew 1:1-16"]
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "In Matthew’s genealogy, we’ve already seen the mention of three women (Tamar, Rahab, and Ruth). Even if you set aside the circumstances of their individual stories, the fact that Matthew included them in his account of Jesus’ ancestry went against the tradition of ancient culture. It was largely a patriarchal society, and women were viewed most often as little more than property. So, the inclusion of women in Matthews’ account (and in the Bible as a whole) sets the biblical story apart. Even more amazing is the promise of a Savior who would be born of a virgin."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "We would expect Matthew to emphasize the davidic ancestry here at the end of the genealogy. After all, he started by calling Jesus “the son of David” and then traced this royal lineage all the way up to Joseph. But then, he breaks from this line and shows that Jesus actually wasn’t the direct biological descendant of David after all. Of course, even Mary and Joseph were distant relatives because they were both Jews and had a common ancestry that went back to Abraham. But it doesn’t diminish the reality of Matthew’s intentional language. Jesus was born of Mary, not Joseph. Unless we understand the abnormal nature of this, we will miss its significance."
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "We wouldn’t naturally think of Genesis 3:15 as the quintessential Christmas passage. How many times have you read this verse to your kids on Christmas day? But this is where the promise of Christ begins. Right there in the garden, in the midst of pronouncing a curse on the Serpent, God simultaneously promised a Savior who would crush the Serpent’s head. And this Savior would be born of a woman. Again, for Moses (the author of Genesis) to use this language in his day would have been even more unnatural. But the Holy Spirit who is actually behind the writing of Scripture doesn’t want the reader to miss the wonder of the promise. The Savior will be born of a virgin. This is to say that he will be born as a man so as to genuinely identify with humanity. But he will also be born of a virgin to show that he is not like any other human being; he is the God-man. And the promise of what he will do is even more amazing; the Serpent will bruise his heel, but he will crush the head of the Serpent."
+          }
+        ]
+      }
+    ]
   }
 ]
