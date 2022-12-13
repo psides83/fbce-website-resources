@@ -1,0 +1,112 @@
+{
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "author",
+    "authorImage",
+    "image",
+    "isSeries",
+    "cardLabel",
+    "title",
+    "paragraphs"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "posto id",
+      "minLength": 8,
+      "default": "20221213"
+    },
+    "date": {
+      "type": "string",
+      "title": "Date",
+      "default": "Dec 13, 2022"
+    },
+    "author": {
+      "type": "string",
+      "title": "Author",
+      "default": "Jeremy Brown"
+    },
+    "authorImage": {
+      "type": "string",
+      "title": "Author Image",
+      "default": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg"
+    },
+    "image": {
+      "type": "string",
+      "title": "Post Image",
+      "default": "https://psides83.github.io/fbce-website-resources/images/advent.jpg"
+    },
+    "isSeries": {
+      "type": "boolean",
+      "title": "isSeries",
+      "default": true
+    },
+    "seriesId": {
+      "type": "string",
+      "title": "Searies Id",
+      "default": "advent"
+    },
+    "seriesTitle": {
+      "type": "string",
+      "title": "Series Title",
+      "default": "Anticipating the Savior – 25 days of Advent"
+    },
+    "cardLabel": {
+      "type": "string",
+      "title": "Card Label",
+      "default": "Advent"
+    },
+    "cardDescription": {
+      "type": "string",
+      "title": "Card desrcription"
+    },
+    "title": {
+      "type": "string",
+      "title": "Post Title"
+    },
+    "paragraphs": {
+      "type": "array",
+      "title": "Paragraphs",
+      "items": {
+        "type": "object",
+        "title": "paragraph",
+        "properties": {
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "title": "section",
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "title": "Text"
+                },
+                "references": {
+                  "type": "array",
+                  "default": null,
+                  "items": {
+                    "type": "string",
+                    "title": "Reference"
+                  }
+                },
+                "quote": {
+                  "type": "string",
+                  "title": "Quote",
+                  "default": null
+                },
+
+                "header": {
+                  "type": "string",
+                  "title": "Header",
+                  "default": null
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
