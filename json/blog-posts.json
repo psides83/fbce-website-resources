@@ -875,5 +875,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20221215",
+    "date": "Dec 15, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "It was necessary for Christ to be born in frail humanity since his purpose was to be the Savior of the world.",
+    "title": "The Indwelling Holy Spirit",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Matthew 1:17", "Luke 1:26-37"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "It was necessary for Christ to be born in frail humanity since his purpose was to be the Savior of the world. He had to be like us to the fullest degree. Hebrews 4 says that he identifies with our weaknesses in every way, “yet without sin”",
+            "references": ["Hebrew 4:14"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "But he also had to be set apart (holy) from humanity, distinct so as to be qualified to atone for the sins of humanity",
+            "references": ["Luke 1:35"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Certainly, this meant living a life of perfect obedience to the Father",
+            "references": ["John 17:4"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "But to ensure that even his human birth was unique from all others, the Godhead determined from eternity past that Christ would be born of a virgin. And this happened because the Holy Spirit came upon Mary in a special way.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "It’s incredible in itself that God would see fit to become subject to his creation, let alone that he would come in the form of a helpless child. But we can’t really comprehend what it meant for the young Mary to become pregnant by the miraculous working of the Holy Spirit. This is why Mary was so humbled by the reality that the promised Savior, the eternal Son of God would grow inside her belly. She knew that she had been chosen to carry the one who was promised to Abraham, Isaac, and Jacob and whom the prophets had foretold for centuries",
+            "references": ["Luke 1:46-55"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "And as the child grew, so too did her union with him.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Every woman who has carried a child in her womb knows the unexplainable intimacy they feel during the season. And those who haven’t had this privilege may long to have it. But the promise of God is that we all can have this level of intimacy with Christ’s Spirit, whether we are a man or woman, rich or poor, barren or fertile. We all can know what it is to be one with Christ through the indwelling Holy Spirit. The apostle Paul writes, “Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price. So glorify God in your body”",
+            "references": ["1 Corinthians 6:19-20"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Jesus came as the true Temple, the place where we meet God. But when we turn from trusting in ourselves and trust in him, we become a temple (dwelling place) for God’s Spirit. The season of Advent and the story of Christmas are reminders that God came to dwell, not just with his people but in them",
+            "references": ["John 14:15-17"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
