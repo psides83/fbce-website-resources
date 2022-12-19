@@ -1154,5 +1154,72 @@
       ]
     }
   ]
+},
+  {
+  "id": "20221218",
+  "date": "Dec 18, 2022",
+  "author": "Jeremy Brown",
+  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+  "isSeries": true,
+  "seriesId": "advent",
+  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+  "cardLabel": "Advent",
+  "cardDescription": "The story of Mary and Joseph is a beautiful picture of the story of the whole Bible.",
+  "title": "An Ordinary Couple, An Extraordinary Child",
+  "paragraphs": [
+    {
+      "sections": [
+        {
+          "text": "Read",
+          "references": [
+            "Matthew 1:18-25"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The story of Mary and Joseph is a beautiful picture of the story of the whole Bible. From the beginning, God’s plan was to create a world in which he would dwell with his people. And to fill the earth with his presence and glory, he started with a family. The fullest expression of God’s presence ultimately came in the person of Jesus Christ, and his birth came about through both ordinary and extraordinary means.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "When Adam and Eve sinned in the garden, God did not turn his back on them. He made a promise to right their wrong, and he did so by causing their descendants to multiply. This family tree persisted until the promised Savior was born to the carpenter Joseph and the young Virgin Mary.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The fact that God sees fit to continue using ordinary people to work out his purposes in the world is encouraging. It means that he really can and does use anyone who will trust him in faith. It also means that he himself is consistent and trustworthy. Jesus could have come to earth as a full grown man, robed in majesty and power (of course this is how he will come the second time). But instead, he came as a baby. And though he was conceived miraculously by the Holy Spirit, he still came into the world the same way all other babies do.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "We don’t have to wonder how to be a part of God’s plan. His will always centers around making Jesus known. And most often, he works through the natural and seemingly mundane to reveal himself. The beauty of Advent and the beauty of this life is that you can find Jesus in almost every aspect of life, if you’re truly looking for him. And when you find him there, celebrate and hold him up for others to see!",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    }
+  ]
 }
 ]
