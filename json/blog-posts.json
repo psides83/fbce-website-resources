@@ -1221,5 +1221,80 @@
       ]
     }
   ]
+},
+  {
+  "id": "20221219",
+  "date": "Dec 19, 2022",
+  "author": "Jeremy Brown",
+  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+  "isSeries": true,
+  "seriesId": "advent",
+  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+  "cardLabel": "Advent",
+  "cardDescription": "Jesus, being innocent, took our sin and shame...",
+  "title": "Mercifully Just",
+  "paragraphs": [
+    {
+      "sections": [
+        {
+          "text": "Read",
+          "references": [
+            "Matthew 1:18-25",
+            "Romans 5:6-8",
+            "2 Corinthians 5:21"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The Savior of the world wasn’t born to a family with a trust fund. He wasn’t even born to a family of religious elites as we might expect. Jesus was born to a simple man who worked hard to provide for his family. He understood his role, even if it was a small one. What’s more, Joseph models the compassion and character of Christ.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "When the Scripture says that Joseph was a just man",
+          "references": [
+            "Matthew 1:19"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "it doesn’t mean that he merely did what was morally acceptable according to the law or society. It means that he acted in the best interest of those who were most vulnerable. In his day, Joseph could have easily shamed Mary for being pregnant. No one knew for sure how she had conceived, and Joseph would have been viewed as right to divorce Mary on the basis of her perceived adultery. But he didn’t. In fact, to divorce her quietly was basically to heap Mary’s shame upon himself. Sound familiar?",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "Jesus is mercifully just. He showed the most profound compassion imaginable. Jesus, being innocent, took our sin and shame upon himself once and for all so that we could be adopted into God’s forever family! He became sin for us so that we could become the righteousness of God",
+          "references": [
+            "2 Corinthians 5:21"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "God is just and therefore must punish sin. But God is simultaneously merciful in that rather than punish us he punished his own blameless Son in our place! Amen!",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    }
+  ]
 }
 ]
