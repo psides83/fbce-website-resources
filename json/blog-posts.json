@@ -1296,5 +1296,74 @@
       ]
     }
   ]
+},
+  {
+  "id": "20221220",
+  "date": "Dec 20, 2022",
+  "author": "Jeremy Brown",
+  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+  "isSeries": true,
+  "seriesId": "advent",
+  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+  "cardLabel": "Advent",
+  "cardDescription": "Without God’s self-revelation there would be no Christmas.",
+  "title": "God’s Self-Revelation",
+  "paragraphs": [
+    {
+      "sections": [
+        {
+          "text": "Read",
+          "references": [
+            "Mathew 1:18-25",
+            "Proverbs 29:18",
+            "2 Peter 1:16-21"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "Without God’s self-revelation there would be no Christmas. Without God’s divine orchestration of events, Joseph would have missed out on being the earthly father of the Messiah. He was not in a hurry to divorce Mary, for surely he loved her. But as he considered what to do, the Lord met him in his confusion.  It was an angel of the Lord who came to Joseph and confirmed to him that the child growing in Mary’s womb was from God. ",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "Without God’s divine action, Jesus would have been murdered by Herod. An angel of the Lord came to Joseph and in a dream to the wisemen in order to disclose Herod’s evil plot",
+          "references": [
+            "Matthew 2:12-13"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "Revelation 12 reveals that this plot was only an earthly manifestation of the cosmic scheme of the evil one himself",
+          "references": [
+            "Revelation 12:14"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "At every possible point of divergence, God overruled the tactics of the enemy. He shows us through the lives of Mary and Joseph that his plan will not be thwarted. And though Satan still tries to ruin the people of God, those who have truly understood who Jesus is and what he has done need not remain in darkness. We may not see him in the flesh now, but we believe in him because he has revealed himself and it is enough. He has revealed his plan, and we can trust him with it. Without it, there would be no Christ, no Christmas, and no hope! But praise God, he has revealed himself fully and finally in the person of Jesus Christ!",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    }
+  ]
 }
 ]
