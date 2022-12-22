@@ -1,4 +1,86 @@
-[
+[{
+  "id": "20221222",
+  "date": "Dec 22, 2022",
+  "author": "Jeremy Brown",
+  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+  "isSeries": true,
+  "seriesId": "advent",
+  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+  "cardLabel": "Advent",
+  "cardDescription": "There is no reason not to believe in the faithfulness of God...",
+  "title": "Promise Made, Promise Kep",
+  "paragraphs": [
+    {
+      "sections": [
+        {
+          "text": "Read",
+          "references": [
+            "Isaiah 7:10-14",
+            "Matthew 1:18-25",
+            "Galatians 4:4"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "Ahaz was king in Judah. He was a descendent of David, but Syria (a superior military power) was threatening not only his reign but seemingly God’s promise to have a son of David on the throne of Judah forever",
+          "references": [
+            "2 Samuel 7:15-16"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "Ahaz was afraid",
+          "references": [
+            "Isaiah 7:2"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "so the LORD sent the prophet Isaiah to the king and invited Ahaz to ask the LORD for a sign as assurance that his promise would hold true. But Ahaz stubbornly refused. At first glance, it seems like humility. Ahaz responded by saying that he did not want to test the LORD. There are many places in Scripture that warn about asking for signs and testing the LORD, but this was a genuine invitation from God himself. Yet, Ahaz was not willing to trust the LORD.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "We may think Ahaz a fool, but how many times do we ask God to show us his will and then fail to follow through in faith when he responds to our request? Often, this is because we already know what we want; we just want God to affirm our preconceived desires.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The sign that God offered Ahaz was a child whose name would be “Immanuel, God with us.” What more do we need? We have seen the coming of this promised king. There is no reason not to believe in the faithfulness of God, for at the right time he sent his Son to redeem us from the oppression of sin and claim us as his own beloved children",
+          "references": [
+            "Galatians 4:4-7"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "If ever we doubt God, we need only remember the promise made and the promise kept: Immanuel, God with us. Advent reminds us that we dare not put our hope in anything less than the certain promises of God fulfilled in Jesus Christ.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    }
+  ]
+},
   {
   "id": "20221221",
   "date": "Dec 21, 2022",
