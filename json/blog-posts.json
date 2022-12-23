@@ -1,4 +1,93 @@
-[{
+[
+  {
+  "id": "20221223",
+  "date": "Dec 23, 2022",
+  "author": "Jeremy Brown",
+  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+  "isSeries": true,
+  "seriesId": "advent",
+  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+  "cardLabel": "Advent",
+  "cardDescription": "The promise of God’s presence is perhaps the most prevalent theme in Scripture.",
+  "title": "God With Us (Part 1)",
+  "paragraphs": [
+    {
+      "sections": [
+        {
+          "text": "Read",
+          "references": [
+            "Genesis 17:1-8",
+            "Matthew 1:18-25"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The promise of God’s presence is perhaps the most prevalent theme in Scripture. The Bible begins with God creating the world to be a home in which he can dwell with mankind. Sin caused a rift between God and man. But God promised to repair all that was broken and recover all that was lost",
+          "references": [
+            "Genesis 3:15"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "Christ came to bring us back into God’s presence",
+          "references": [
+            "1 Peter 3:18"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "When the LORD made a covenant with Abraham, he bound himself permanently not only to Abraham alone but all of his offspring",
+          "references": [
+            "Genesis 17:7-8"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "And who are Abraham’s offspring?",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The apostle Paul wrote that it is those who belong to Christ who are the true offspring of Abraham",
+          "references": [
+            "Galatians 3:7-8"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "So it is those whose faith is in Jesus who are the recipients of God’s promise to Abraham. This is the promise that they will be his people and he will be their God.  The promise of God’s presence was not only fulfilled in Christ taking on flesh. God’s promise to be with us was established through his covenant with Abraham. And by faith in Jesus, anyone can become an heir of this promise. Since Christ is the truest expression of God’s presence and it is in him that all God's promises are fulfilled",
+          "references": [
+            "2 Corinthians 1:20"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": ", to be united to Christ in faith is to walk through this life continually in his presence. No matter what life brings, no matter how dark the world gets, God is with all who are his by faith in Jesus.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    }
+  ]
+},
+  {
   "id": "20221222",
   "date": "Dec 22, 2022",
   "author": "Jeremy Brown",
