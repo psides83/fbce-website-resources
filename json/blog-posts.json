@@ -1,5 +1,84 @@
 [
   {
+  "id": "20221225",
+  "date": "Dec 25, 2022",
+  "author": "Jeremy Brown",
+  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+  "isSeries": true,
+  "seriesId": "advent",
+  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+  "cardLabel": "Advent",
+  "cardDescription": "There are few things more satisfying than the sense of belonging.",
+  "title": "God With Us (Part 3)",
+  "paragraphs": [
+    {
+      "sections": [
+        {
+          "text": "Read",
+          "references": [
+            "Genesis 17:8",
+            "Jeremiah 31:33",
+            "Ezekiel 36:28",
+            "Matthew 1:18-25",
+            "Revelation 21:1-8"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "There are few things more satisfying than the sense of belonging. In fact, what makes life so difficult and disappointing is that we almost always feel more or less out of place in this world. But remember the quote from C. S. Lewis. “If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.” Lewis captures the sense of longing that we all feel and God’s word confirms it. We were made for the presence of God. We were created by his hand and recreated by his Spirit to belong to him.",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The Bible begins with God making a world in which he could dwell with his people. Our rebellion separates us from his presence, the very place to which all our longings point. Jesus came and lived the life we should have lived. He died the death we deserved because of our sin. He rose to conquer death for us, and he sits at the right hand of the Father interceding for us now",
+          "references": [
+            "Hebrews 7:25"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "Because of Jesus, we are reconciled to God through faith",
+          "references": [
+            "Colossians 1:21-23"
+          ],
+          "quote": "",
+          "header": ""
+        },
+        {
+          "text": "But there is more to come. The story is not over. And though the end has been written, it’s not really the end. For those who are in Christ, our best days are always ahead because we were made to live forever on the earth in God’s presence",
+          "references": [
+            "Revelation 21:4-7"
+          ],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    },
+    {
+      "sections": [
+        {
+          "text": "The joy of Christmas comes from remembering that what our hearts truly need and long for is nothing less than God himself. And this is exactly what he has given us. There is nothing greater than God, therefore there is no greater gift he could give us than himself. Because of Jesus’ first coming, we can know Immanuel, God with us, here and now through the presence of his indwelling Spirit. And when he returns in the flesh, we will know the pure bliss of having all our longings satisfied in his presence forever!",
+          "references": [],
+          "quote": "",
+          "header": ""
+        }
+      ]
+    }
+  ]
+},
+  {
   "id": "20221224",
   "date": "Dec 24, 2022",
   "author": "Jeremy Brown",
