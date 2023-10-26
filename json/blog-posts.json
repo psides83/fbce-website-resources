@@ -1,394 +1,359 @@
 [
   {
-  "id": "20221225",
-  "date": "Dec 25, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "There are few things more satisfying than the sense of belonging.",
-  "title": "God With Us (Part 3)",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Genesis 17:8",
-            "Jeremiah 31:33",
-            "Ezekiel 36:28",
-            "Matthew 1:18-25",
-            "Revelation 21:1-8"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "There are few things more satisfying than the sense of belonging. In fact, what makes life so difficult and disappointing is that we almost always feel more or less out of place in this world. But remember the quote from C. S. Lewis. “If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.” Lewis captures the sense of longing that we all feel and God’s word confirms it. We were made for the presence of God. We were created by his hand and recreated by his Spirit to belong to him.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The Bible begins with God making a world in which he could dwell with his people. Our rebellion separates us from his presence, the very place to which all our longings point. Jesus came and lived the life we should have lived. He died the death we deserved because of our sin. He rose to conquer death for us, and he sits at the right hand of the Father interceding for us now",
-          "references": [
-            "Hebrews 7:25"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "Because of Jesus, we are reconciled to God through faith",
-          "references": [
-            "Colossians 1:21-23"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "But there is more to come. The story is not over. And though the end has been written, it’s not really the end. For those who are in Christ, our best days are always ahead because we were made to live forever on the earth in God’s presence",
-          "references": [
-            "Revelation 21:4-7"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The joy of Christmas comes from remembering that what our hearts truly need and long for is nothing less than God himself. And this is exactly what he has given us. There is nothing greater than God, therefore there is no greater gift he could give us than himself. Because of Jesus’ first coming, we can know Immanuel, God with us, here and now through the presence of his indwelling Spirit. And when he returns in the flesh, we will know the pure bliss of having all our longings satisfied in his presence forever!",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221225",
+    "date": "Dec 25, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "There are few things more satisfying than the sense of belonging.",
+    "title": "God With Us (Part 3)",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": [
+              "Genesis 17:8",
+              "Jeremiah 31:33",
+              "Ezekiel 36:28",
+              "Matthew 1:18-25",
+              "Revelation 21:1-8"
+            ],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "There are few things more satisfying than the sense of belonging. In fact, what makes life so difficult and disappointing is that we almost always feel more or less out of place in this world. But remember the quote from C. S. Lewis. “If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.” Lewis captures the sense of longing that we all feel and God’s word confirms it. We were made for the presence of God. We were created by his hand and recreated by his Spirit to belong to him.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The Bible begins with God making a world in which he could dwell with his people. Our rebellion separates us from his presence, the very place to which all our longings point. Jesus came and lived the life we should have lived. He died the death we deserved because of our sin. He rose to conquer death for us, and he sits at the right hand of the Father interceding for us now",
+            "references": ["Hebrews 7:25"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Because of Jesus, we are reconciled to God through faith",
+            "references": ["Colossians 1:21-23"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "But there is more to come. The story is not over. And though the end has been written, it’s not really the end. For those who are in Christ, our best days are always ahead because we were made to live forever on the earth in God’s presence",
+            "references": ["Revelation 21:4-7"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The joy of Christmas comes from remembering that what our hearts truly need and long for is nothing less than God himself. And this is exactly what he has given us. There is nothing greater than God, therefore there is no greater gift he could give us than himself. Because of Jesus’ first coming, we can know Immanuel, God with us, here and now through the presence of his indwelling Spirit. And when he returns in the flesh, we will know the pure bliss of having all our longings satisfied in his presence forever!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221224",
-  "date": "Dec 24, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "God’s ultimate plan is to dwell with us for all eternity",
-  "title": "God With Us (Part 2)",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Jeremiah 31:31-43",
-            "Ezekiel 36:24-28",
-            "Matthew 1:18-25"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "God’s promise to dwell with his people is a promise to dwell in his people. As the prophet Jeremiah foretold, God intended to write his instruction on the hearts of his people. In a broken world where no one seeks to do God’s will without external coercion, the promise was that one day the desire to obey would be as natural and effortless as our beating hearts. Can you imagine a version of yourself hat only desires what God desires and always delights to please him? That is what God intends, but it does not happen unless he himself does something in us.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "As Jeremiah told of what God would do in the hearts of his people, so Ezekiel told of how God would accomplish this. It is only by the Spirit of God that we can even want to do what God requires. True obedience begins and ends at the level of our desires. This is why God’s promise to dwell with us included the giving of a new heart. It is the work of the Holy Spirit that accomplishes this in us. And it is the Holy Spirit who marks us as belonging to God.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "God’s ultimate plan is to dwell with us for all eternity",
-          "references": [
-            "Revelation 21:3"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "But here and now, he has chosen to dwell with us through his word and his Spirit. This is how we come to know the LORD’s presence and power daily. As we read, listen to, and obey the Scriptures, the Spirit of God moves in our lives. To neglect the word of God is to deny the power of God in our lives. If we are to truly appreciate Jesus’ incarnation and genuinely long for his return, then we must seek to commune with him through the means that he has given us. The promise of “God with us” is only realized when we pursue Christ through his word and in dependence upon his Spirit.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221224",
+    "date": "Dec 24, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "God’s ultimate plan is to dwell with us for all eternity",
+    "title": "God With Us (Part 2)",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": [
+              "Jeremiah 31:31-43",
+              "Ezekiel 36:24-28",
+              "Matthew 1:18-25"
+            ],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "God’s promise to dwell with his people is a promise to dwell in his people. As the prophet Jeremiah foretold, God intended to write his instruction on the hearts of his people. In a broken world where no one seeks to do God’s will without external coercion, the promise was that one day the desire to obey would be as natural and effortless as our beating hearts. Can you imagine a version of yourself hat only desires what God desires and always delights to please him? That is what God intends, but it does not happen unless he himself does something in us.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "As Jeremiah told of what God would do in the hearts of his people, so Ezekiel told of how God would accomplish this. It is only by the Spirit of God that we can even want to do what God requires. True obedience begins and ends at the level of our desires. This is why God’s promise to dwell with us included the giving of a new heart. It is the work of the Holy Spirit that accomplishes this in us. And it is the Holy Spirit who marks us as belonging to God.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "God’s ultimate plan is to dwell with us for all eternity",
+            "references": ["Revelation 21:3"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "But here and now, he has chosen to dwell with us through his word and his Spirit. This is how we come to know the LORD’s presence and power daily. As we read, listen to, and obey the Scriptures, the Spirit of God moves in our lives. To neglect the word of God is to deny the power of God in our lives. If we are to truly appreciate Jesus’ incarnation and genuinely long for his return, then we must seek to commune with him through the means that he has given us. The promise of “God with us” is only realized when we pursue Christ through his word and in dependence upon his Spirit.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221223",
-  "date": "Dec 23, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "The promise of God’s presence is perhaps the most prevalent theme in Scripture.",
-  "title": "God With Us (Part 1)",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Genesis 17:1-8",
-            "Matthew 1:18-25"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The promise of God’s presence is perhaps the most prevalent theme in Scripture. The Bible begins with God creating the world to be a home in which he can dwell with mankind. Sin caused a rift between God and man. But God promised to repair all that was broken and recover all that was lost",
-          "references": [
-            "Genesis 3:15"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "Christ came to bring us back into God’s presence",
-          "references": [
-            "1 Peter 3:18"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "When the LORD made a covenant with Abraham, he bound himself permanently not only to Abraham alone but all of his offspring",
-          "references": [
-            "Genesis 17:7-8"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "And who are Abraham’s offspring?",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The apostle Paul wrote that it is those who belong to Christ who are the true offspring of Abraham",
-          "references": [
-            "Galatians 3:7-8"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "So it is those whose faith is in Jesus who are the recipients of God’s promise to Abraham. This is the promise that they will be his people and he will be their God.  The promise of God’s presence was not only fulfilled in Christ taking on flesh. God’s promise to be with us was established through his covenant with Abraham. And by faith in Jesus, anyone can become an heir of this promise. Since Christ is the truest expression of God’s presence and it is in him that all God's promises are fulfilled",
-          "references": [
-            "2 Corinthians 1:20"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": ", to be united to Christ in faith is to walk through this life continually in his presence. No matter what life brings, no matter how dark the world gets, God is with all who are his by faith in Jesus.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221223",
+    "date": "Dec 23, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "The promise of God’s presence is perhaps the most prevalent theme in Scripture.",
+    "title": "God With Us (Part 1)",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Genesis 17:1-8", "Matthew 1:18-25"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The promise of God’s presence is perhaps the most prevalent theme in Scripture. The Bible begins with God creating the world to be a home in which he can dwell with mankind. Sin caused a rift between God and man. But God promised to repair all that was broken and recover all that was lost",
+            "references": ["Genesis 3:15"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Christ came to bring us back into God’s presence",
+            "references": ["1 Peter 3:18"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "When the LORD made a covenant with Abraham, he bound himself permanently not only to Abraham alone but all of his offspring",
+            "references": ["Genesis 17:7-8"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "And who are Abraham’s offspring?",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The apostle Paul wrote that it is those who belong to Christ who are the true offspring of Abraham",
+            "references": ["Galatians 3:7-8"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "So it is those whose faith is in Jesus who are the recipients of God’s promise to Abraham. This is the promise that they will be his people and he will be their God.  The promise of God’s presence was not only fulfilled in Christ taking on flesh. God’s promise to be with us was established through his covenant with Abraham. And by faith in Jesus, anyone can become an heir of this promise. Since Christ is the truest expression of God’s presence and it is in him that all God's promises are fulfilled",
+            "references": ["2 Corinthians 1:20"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": ", to be united to Christ in faith is to walk through this life continually in his presence. No matter what life brings, no matter how dark the world gets, God is with all who are his by faith in Jesus.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221222",
-  "date": "Dec 22, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "There is no reason not to believe in the faithfulness of God...",
-  "title": "Promise Made, Promise Kep",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Isaiah 7:10-14",
-            "Matthew 1:18-25",
-            "Galatians 4:4"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Ahaz was king in Judah. He was a descendent of David, but Syria (a superior military power) was threatening not only his reign but seemingly God’s promise to have a son of David on the throne of Judah forever",
-          "references": [
-            "2 Samuel 7:15-16"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "Ahaz was afraid",
-          "references": [
-            "Isaiah 7:2"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "so the LORD sent the prophet Isaiah to the king and invited Ahaz to ask the LORD for a sign as assurance that his promise would hold true. But Ahaz stubbornly refused. At first glance, it seems like humility. Ahaz responded by saying that he did not want to test the LORD. There are many places in Scripture that warn about asking for signs and testing the LORD, but this was a genuine invitation from God himself. Yet, Ahaz was not willing to trust the LORD.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "We may think Ahaz a fool, but how many times do we ask God to show us his will and then fail to follow through in faith when he responds to our request? Often, this is because we already know what we want; we just want God to affirm our preconceived desires.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The sign that God offered Ahaz was a child whose name would be “Immanuel, God with us.” What more do we need? We have seen the coming of this promised king. There is no reason not to believe in the faithfulness of God, for at the right time he sent his Son to redeem us from the oppression of sin and claim us as his own beloved children",
-          "references": [
-            "Galatians 4:4-7"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "If ever we doubt God, we need only remember the promise made and the promise kept: Immanuel, God with us. Advent reminds us that we dare not put our hope in anything less than the certain promises of God fulfilled in Jesus Christ.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221222",
+    "date": "Dec 22, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "There is no reason not to believe in the faithfulness of God...",
+    "title": "Promise Made, Promise Kep",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": [
+              "Isaiah 7:10-14",
+              "Matthew 1:18-25",
+              "Galatians 4:4"
+            ],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Ahaz was king in Judah. He was a descendent of David, but Syria (a superior military power) was threatening not only his reign but seemingly God’s promise to have a son of David on the throne of Judah forever",
+            "references": ["2 Samuel 7:15-16"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Ahaz was afraid",
+            "references": ["Isaiah 7:2"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "so the LORD sent the prophet Isaiah to the king and invited Ahaz to ask the LORD for a sign as assurance that his promise would hold true. But Ahaz stubbornly refused. At first glance, it seems like humility. Ahaz responded by saying that he did not want to test the LORD. There are many places in Scripture that warn about asking for signs and testing the LORD, but this was a genuine invitation from God himself. Yet, Ahaz was not willing to trust the LORD.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "We may think Ahaz a fool, but how many times do we ask God to show us his will and then fail to follow through in faith when he responds to our request? Often, this is because we already know what we want; we just want God to affirm our preconceived desires.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The sign that God offered Ahaz was a child whose name would be “Immanuel, God with us.” What more do we need? We have seen the coming of this promised king. There is no reason not to believe in the faithfulness of God, for at the right time he sent his Son to redeem us from the oppression of sin and claim us as his own beloved children",
+            "references": ["Galatians 4:4-7"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "If ever we doubt God, we need only remember the promise made and the promise kept: Immanuel, God with us. Advent reminds us that we dare not put our hope in anything less than the certain promises of God fulfilled in Jesus Christ.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221221",
-  "date": "Dec 21, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "This Christmas, don’t settle for merely commemorating a quaint story about a sweet, little baby born to a virgin girl in a stable.",
-  "title": "This Christmas",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Genesis 3:15",
-            "Isaiah 53:1-6",
-            "Matthew 1:18-25"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "“She will bear a son, and you shall call his name Jesus, ‘for he will save his people from their sins”",
-          "references": [
-            "Matthew 1:21"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Many times, Christmas is disappointing because we are doing it wrong. We get distracted by all the peripheral trappings, and we miss the whole point of it all. Of course, we all love the parties, the gifts, the time with friends and family. But if we don’t keep the main thing the main thing, then everything else loses its meaning. Here is the heart of Christmas, the heart of Scripture, the heart of redemptive history: Jesus came to save his people from their sins. His very name means “to save.” Remember the promise back in Genesis 3:15? God was pronouncing a curse on the serpent because he had deceived Adam and Eve into rebelling against God. Yet, embedded in this curse was the promise that the “seed of the woman” would come and crush the head of the serpent. It’s clear that the offspring himself would sustain injury because the LORD also said that the serpent would “bruise his heel.”",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "But how would the promised descendent accomplish this salvation? For centuries, the people of God studied to understand the true meaning of this promise, but we now have the benefit of knowing the full story. The offspring that was promised in the midst of humanity’s worst, is none other than Jesus Christ. He came to crush the head of the serpent who is Satan. He accomplished this not by coming in brute strength but in humility and weakness. Through his death, Jesus paid the penalty for sin and stripped sin of its power over us. “He was pierced for our wrongdoing; he was crushed for our evil desires; upon him was the punishment that brought us peace, and by his wounds we are saved.” And all this was God’s plan from the beginning",
-          "references": [
-            "Isaiah 53:10"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "This Christmas, don’t settle for merely commemorating a quaint story about a sweet, little baby born to a virgin girl in a stable. Understand the true meaning of it. This child was born to die. He left his throne in heaven to be born in the likeness of mankind so that he could take on not only our human frailty and weakness but our guilt and shame from sin. We have been delivered from God’s just punishment toward our sin. Jesus’ perfect obedience to the Father qualifies him to make full payment for our sin. His resurrection and ascension is the Father’s stamp of approval to show that Jesus’ death was truly enough to cover our sins (past, present, and future). As someone has said, we have been saved from sin’s penalty; we are being saved from sin’s power; and one day we will be saved from sin’s presence. This Christmas, we celebrate Christ’s first coming which sealed our salvation. This Christmas, we anticipate Christ’s second coming in which our salvation will be fully and finally realized. This Christmas, keep the main thing the main thing.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221221",
+    "date": "Dec 21, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "This Christmas, don’t settle for merely commemorating a quaint story about a sweet, little baby born to a virgin girl in a stable.",
+    "title": "This Christmas",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Genesis 3:15", "Isaiah 53:1-6", "Matthew 1:18-25"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "“She will bear a son, and you shall call his name Jesus, ‘for he will save his people from their sins”",
+            "references": ["Matthew 1:21"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Many times, Christmas is disappointing because we are doing it wrong. We get distracted by all the peripheral trappings, and we miss the whole point of it all. Of course, we all love the parties, the gifts, the time with friends and family. But if we don’t keep the main thing the main thing, then everything else loses its meaning. Here is the heart of Christmas, the heart of Scripture, the heart of redemptive history: Jesus came to save his people from their sins. His very name means “to save.” Remember the promise back in Genesis 3:15? God was pronouncing a curse on the serpent because he had deceived Adam and Eve into rebelling against God. Yet, embedded in this curse was the promise that the “seed of the woman” would come and crush the head of the serpent. It’s clear that the offspring himself would sustain injury because the LORD also said that the serpent would “bruise his heel.”",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "But how would the promised descendent accomplish this salvation? For centuries, the people of God studied to understand the true meaning of this promise, but we now have the benefit of knowing the full story. The offspring that was promised in the midst of humanity’s worst, is none other than Jesus Christ. He came to crush the head of the serpent who is Satan. He accomplished this not by coming in brute strength but in humility and weakness. Through his death, Jesus paid the penalty for sin and stripped sin of its power over us. “He was pierced for our wrongdoing; he was crushed for our evil desires; upon him was the punishment that brought us peace, and by his wounds we are saved.” And all this was God’s plan from the beginning",
+            "references": ["Isaiah 53:10"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "This Christmas, don’t settle for merely commemorating a quaint story about a sweet, little baby born to a virgin girl in a stable. Understand the true meaning of it. This child was born to die. He left his throne in heaven to be born in the likeness of mankind so that he could take on not only our human frailty and weakness but our guilt and shame from sin. We have been delivered from God’s just punishment toward our sin. Jesus’ perfect obedience to the Father qualifies him to make full payment for our sin. His resurrection and ascension is the Father’s stamp of approval to show that Jesus’ death was truly enough to cover our sins (past, present, and future). As someone has said, we have been saved from sin’s penalty; we are being saved from sin’s power; and one day we will be saved from sin’s presence. This Christmas, we celebrate Christ’s first coming which sealed our salvation. This Christmas, we anticipate Christ’s second coming in which our salvation will be fully and finally realized. This Christmas, keep the main thing the main thing.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
     "id": "20221201",
     "date": "Dec 1, 2022",
@@ -1433,327 +1398,384 @@
     ]
   },
   {
-  "id": "20221217",
-  "date": "Dec 17, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "Life is filled with painful longing that is mixed with strange joy",
-  "title": "Groaning With Joy",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Matthew 1:17",
-            "John 16:16-24",
-            "Romans 8:18-25"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Pregnancy is filled with joyful anticipation and groaning. We long to see the face of the child that grows in the womb. As the day draws near the anticipation builds, but so does the anguish. Life is filled with painful longing that is mixed with strange joy. We experience almost daily the joy of what is on the horizon and the sorrow of longings unfulfilled. The things for which we often long (good as they may be) elude us either because they do not last or because they never come to be.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Israel longed for the Savior that had been promised in the garden. They believed God’s promise to grow Abraham’s family and bless the nations through his offspring",
-          "references": [
-            "Genesis 12:1-3"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "They remembered God’s covenant with David to have his heir reign on the throne forever",
-          "references": [
-            "2 Samuel 7:15-16"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "But through all the sin, suffering, and exile they wondered when God would make good on his promise. Israel groaned for centuries. They watched and waited.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Romans 8 says that creation itself groans. It longs to see the revealing of the sons (and daughters) of God",
-          "references": [
-            "Romans 8:19"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "Do you long for this? Whatever else you may be longing for cannot compare to what God is waiting to reveal in you through the work of his Son Jesus. He is waiting for the day that he will reveal before all of creation who are his adopted children by faith in Jesus. Will you be in that number?",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The apostle Peter wrote, “The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.” It may seem like God has forgotten his promise, but he is patiently waiting for sinners to turn from trusting in themselves and trust in his mercy displayed in Christ",
-          "references": [
-            "2 Peter 3:8-9"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "The final reward is sure for those who groan, who long for him with all their hearts",
-          "references": [
-            "2 Timothy 4:8"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "C. S. Lewis famously said in his well-known book Mere Christianity, “If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.” Advent is about waiting; it’s about longing; it’s about groaning. It’s about remembering that we were made to be satisfied in Christ alone. All our longings ultimately point to this reality. And we have the certainty that all our groaning will end because the One in whom we find the fullest satisfaction left his throne in Heaven, took on flesh, died for our sins, and rose to conquer death itself. We can groan with joy because Jesus has secured a future for those who love him and long for his return. It is a future that is beyond all comprehension or comparison. It is the forever for which we were made!",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221217",
+    "date": "Dec 17, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "Life is filled with painful longing that is mixed with strange joy",
+    "title": "Groaning With Joy",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Matthew 1:17", "John 16:16-24", "Romans 8:18-25"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Pregnancy is filled with joyful anticipation and groaning. We long to see the face of the child that grows in the womb. As the day draws near the anticipation builds, but so does the anguish. Life is filled with painful longing that is mixed with strange joy. We experience almost daily the joy of what is on the horizon and the sorrow of longings unfulfilled. The things for which we often long (good as they may be) elude us either because they do not last or because they never come to be.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Israel longed for the Savior that had been promised in the garden. They believed God’s promise to grow Abraham’s family and bless the nations through his offspring",
+            "references": ["Genesis 12:1-3"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "They remembered God’s covenant with David to have his heir reign on the throne forever",
+            "references": ["2 Samuel 7:15-16"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "But through all the sin, suffering, and exile they wondered when God would make good on his promise. Israel groaned for centuries. They watched and waited.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Romans 8 says that creation itself groans. It longs to see the revealing of the sons (and daughters) of God",
+            "references": ["Romans 8:19"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Do you long for this? Whatever else you may be longing for cannot compare to what God is waiting to reveal in you through the work of his Son Jesus. He is waiting for the day that he will reveal before all of creation who are his adopted children by faith in Jesus. Will you be in that number?",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The apostle Peter wrote, “The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.” It may seem like God has forgotten his promise, but he is patiently waiting for sinners to turn from trusting in themselves and trust in his mercy displayed in Christ",
+            "references": ["2 Peter 3:8-9"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "The final reward is sure for those who groan, who long for him with all their hearts",
+            "references": ["2 Timothy 4:8"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "C. S. Lewis famously said in his well-known book Mere Christianity, “If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.” Advent is about waiting; it’s about longing; it’s about groaning. It’s about remembering that we were made to be satisfied in Christ alone. All our longings ultimately point to this reality. And we have the certainty that all our groaning will end because the One in whom we find the fullest satisfaction left his throne in Heaven, took on flesh, died for our sins, and rose to conquer death itself. We can groan with joy because Jesus has secured a future for those who love him and long for his return. It is a future that is beyond all comprehension or comparison. It is the forever for which we were made!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221218",
-  "date": "Dec 18, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "The story of Mary and Joseph is a beautiful picture of the story of the whole Bible.",
-  "title": "An Ordinary Couple, An Extraordinary Child",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Matthew 1:18-25"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The story of Mary and Joseph is a beautiful picture of the story of the whole Bible. From the beginning, God’s plan was to create a world in which he would dwell with his people. And to fill the earth with his presence and glory, he started with a family. The fullest expression of God’s presence ultimately came in the person of Jesus Christ, and his birth came about through both ordinary and extraordinary means.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "When Adam and Eve sinned in the garden, God did not turn his back on them. He made a promise to right their wrong, and he did so by causing their descendants to multiply. This family tree persisted until the promised Savior was born to the carpenter Joseph and the young Virgin Mary.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The fact that God sees fit to continue using ordinary people to work out his purposes in the world is encouraging. It means that he really can and does use anyone who will trust him in faith. It also means that he himself is consistent and trustworthy. Jesus could have come to earth as a full grown man, robed in majesty and power (of course this is how he will come the second time). But instead, he came as a baby. And though he was conceived miraculously by the Holy Spirit, he still came into the world the same way all other babies do.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "We don’t have to wonder how to be a part of God’s plan. His will always centers around making Jesus known. And most often, he works through the natural and seemingly mundane to reveal himself. The beauty of Advent and the beauty of this life is that you can find Jesus in almost every aspect of life, if you’re truly looking for him. And when you find him there, celebrate and hold him up for others to see!",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221218",
+    "date": "Dec 18, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "The story of Mary and Joseph is a beautiful picture of the story of the whole Bible.",
+    "title": "An Ordinary Couple, An Extraordinary Child",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": ["Matthew 1:18-25"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The story of Mary and Joseph is a beautiful picture of the story of the whole Bible. From the beginning, God’s plan was to create a world in which he would dwell with his people. And to fill the earth with his presence and glory, he started with a family. The fullest expression of God’s presence ultimately came in the person of Jesus Christ, and his birth came about through both ordinary and extraordinary means.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "When Adam and Eve sinned in the garden, God did not turn his back on them. He made a promise to right their wrong, and he did so by causing their descendants to multiply. This family tree persisted until the promised Savior was born to the carpenter Joseph and the young Virgin Mary.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The fact that God sees fit to continue using ordinary people to work out his purposes in the world is encouraging. It means that he really can and does use anyone who will trust him in faith. It also means that he himself is consistent and trustworthy. Jesus could have come to earth as a full grown man, robed in majesty and power (of course this is how he will come the second time). But instead, he came as a baby. And though he was conceived miraculously by the Holy Spirit, he still came into the world the same way all other babies do.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "We don’t have to wonder how to be a part of God’s plan. His will always centers around making Jesus known. And most often, he works through the natural and seemingly mundane to reveal himself. The beauty of Advent and the beauty of this life is that you can find Jesus in almost every aspect of life, if you’re truly looking for him. And when you find him there, celebrate and hold him up for others to see!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221219",
-  "date": "Dec 19, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "Jesus, being innocent, took our sin and shame...",
-  "title": "Mercifully Just",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Matthew 1:18-25",
-            "Romans 5:6-8",
-            "2 Corinthians 5:21"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "The Savior of the world wasn’t born to a family with a trust fund. He wasn’t even born to a family of religious elites as we might expect. Jesus was born to a simple man who worked hard to provide for his family. He understood his role, even if it was a small one. What’s more, Joseph models the compassion and character of Christ.",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "When the Scripture says that Joseph was a just man",
-          "references": [
-            "Matthew 1:19"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "it doesn’t mean that he merely did what was morally acceptable according to the law or society. It means that he acted in the best interest of those who were most vulnerable. In his day, Joseph could have easily shamed Mary for being pregnant. No one knew for sure how she had conceived, and Joseph would have been viewed as right to divorce Mary on the basis of her perceived adultery. But he didn’t. In fact, to divorce her quietly was basically to heap Mary’s shame upon himself. Sound familiar?",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Jesus is mercifully just. He showed the most profound compassion imaginable. Jesus, being innocent, took our sin and shame upon himself once and for all so that we could be adopted into God’s forever family! He became sin for us so that we could become the righteousness of God",
-          "references": [
-            "2 Corinthians 5:21"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "God is just and therefore must punish sin. But God is simultaneously merciful in that rather than punish us he punished his own blameless Son in our place! Amen!",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-},
+    "id": "20221219",
+    "date": "Dec 19, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "Jesus, being innocent, took our sin and shame...",
+    "title": "Mercifully Just",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": [
+              "Matthew 1:18-25",
+              "Romans 5:6-8",
+              "2 Corinthians 5:21"
+            ],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The Savior of the world wasn’t born to a family with a trust fund. He wasn’t even born to a family of religious elites as we might expect. Jesus was born to a simple man who worked hard to provide for his family. He understood his role, even if it was a small one. What’s more, Joseph models the compassion and character of Christ.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "When the Scripture says that Joseph was a just man",
+            "references": ["Matthew 1:19"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "it doesn’t mean that he merely did what was morally acceptable according to the law or society. It means that he acted in the best interest of those who were most vulnerable. In his day, Joseph could have easily shamed Mary for being pregnant. No one knew for sure how she had conceived, and Joseph would have been viewed as right to divorce Mary on the basis of her perceived adultery. But he didn’t. In fact, to divorce her quietly was basically to heap Mary’s shame upon himself. Sound familiar?",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Jesus is mercifully just. He showed the most profound compassion imaginable. Jesus, being innocent, took our sin and shame upon himself once and for all so that we could be adopted into God’s forever family! He became sin for us so that we could become the righteousness of God",
+            "references": ["2 Corinthians 5:21"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "God is just and therefore must punish sin. But God is simultaneously merciful in that rather than punish us he punished his own blameless Son in our place! Amen!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
   {
-  "id": "20221220",
-  "date": "Dec 20, 2022",
-  "author": "Jeremy Brown",
-  "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
-  "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
-  "isSeries": true,
-  "seriesId": "advent",
-  "seriesTitle": "Anticipating the Savior – 25 days of Advent",
-  "cardLabel": "Advent",
-  "cardDescription": "Without God’s self-revelation there would be no Christmas.",
-  "title": "God’s Self-Revelation",
-  "paragraphs": [
-    {
-      "sections": [
-        {
-          "text": "Read",
-          "references": [
-            "Mathew 1:18-25",
-            "Proverbs 29:18",
-            "2 Peter 1:16-21"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Without God’s self-revelation there would be no Christmas. Without God’s divine orchestration of events, Joseph would have missed out on being the earthly father of the Messiah. He was not in a hurry to divorce Mary, for surely he loved her. But as he considered what to do, the Lord met him in his confusion.  It was an angel of the Lord who came to Joseph and confirmed to him that the child growing in Mary’s womb was from God. ",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "Without God’s divine action, Jesus would have been murdered by Herod. An angel of the Lord came to Joseph and in a dream to the wisemen in order to disclose Herod’s evil plot",
-          "references": [
-            "Matthew 2:12-13"
-          ],
-          "quote": "",
-          "header": ""
-        },
-        {
-          "text": "Revelation 12 reveals that this plot was only an earthly manifestation of the cosmic scheme of the evil one himself",
-          "references": [
-            "Revelation 12:14"
-          ],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    },
-    {
-      "sections": [
-        {
-          "text": "At every possible point of divergence, God overruled the tactics of the enemy. He shows us through the lives of Mary and Joseph that his plan will not be thwarted. And though Satan still tries to ruin the people of God, those who have truly understood who Jesus is and what he has done need not remain in darkness. We may not see him in the flesh now, but we believe in him because he has revealed himself and it is enough. He has revealed his plan, and we can trust him with it. Without it, there would be no Christ, no Christmas, and no hope! But praise God, he has revealed himself fully and finally in the person of Jesus Christ!",
-          "references": [],
-          "quote": "",
-          "header": ""
-        }
-      ]
-    }
-  ]
-}
+    "id": "20221220",
+    "date": "Dec 20, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "Anticipating the Savior – 25 days of Advent",
+    "cardLabel": "Advent",
+    "cardDescription": "Without God’s self-revelation there would be no Christmas.",
+    "title": "God’s Self-Revelation",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Read",
+            "references": [
+              "Mathew 1:18-25",
+              "Proverbs 29:18",
+              "2 Peter 1:16-21"
+            ],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Without God’s self-revelation there would be no Christmas. Without God’s divine orchestration of events, Joseph would have missed out on being the earthly father of the Messiah. He was not in a hurry to divorce Mary, for surely he loved her. But as he considered what to do, the Lord met him in his confusion.  It was an angel of the Lord who came to Joseph and confirmed to him that the child growing in Mary’s womb was from God. ",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Without God’s divine action, Jesus would have been murdered by Herod. An angel of the Lord came to Joseph and in a dream to the wisemen in order to disclose Herod’s evil plot",
+            "references": ["Matthew 2:12-13"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Revelation 12 reveals that this plot was only an earthly manifestation of the cosmic scheme of the evil one himself",
+            "references": ["Revelation 12:14"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "At every possible point of divergence, God overruled the tactics of the enemy. He shows us through the lives of Mary and Joseph that his plan will not be thwarted. And though Satan still tries to ruin the people of God, those who have truly understood who Jesus is and what he has done need not remain in darkness. We may not see him in the flesh now, but we believe in him because he has revealed himself and it is enough. He has revealed his plan, and we can trust him with it. Without it, there would be no Christ, no Christmas, and no hope! But praise God, he has revealed himself fully and finally in the person of Jesus Christ!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "20221213",
+    "date": "Dec 13, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": false,
+    "seriesId": "",
+    "seriesTitle": "",
+    "cardLabel": "",
+    "cardDescription": "",
+    "title": "The Subtle Way We Hate God",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Deuteronomy 7:9-11",
+            "references": [],
+            "quote": "Know therefore that the LORD your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations, and repays to their face those who hate him, by destroying them. He will not be slack with one who hates him. He will repay him to his face. You shall therefore be careful to do the commandment and the statutes and the rules that I command you today.",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": " I doubt anyone in their right mind would say they hate God. Most people in the world are religious, and many believe that God exists. Most of us will even say we love God. But ask yourself, “Do I love the true God as he has revealed himself in Scripture and history? Or do I simply love God as I have imagined him to be?” Notice in the verses above that to “hate God” is not to openly reject the concept of God altogether. It is to ignore, to disobey, or to disregard HIS WORD.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Deuteronomy describes those who love God as those who obey him and those who hate him as those who disobey his word. We understand this. Who among us truly feels loved by those who never listen to us? In the same way, to neglect to read, understand, delight in, and obey God’s word is to despise God himself. And God will have no pity on the one who finally rejects him by rejecting his word.",
+            "references": ["Deuteronomy 7:10"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Some people once asked Jesus, “What must we do to be doing the works of God?” Jesus’ answer was simple….”This is the work of God, that you believe in the one whom he has sent” (John 6:29). To truly love God is to treasure Christ above everything else. And to truly treasure Christ is to hang on his every word! Jesus said, “If you love me you will keep my commands”",
+            "references": ["John 14:15"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Many of us are guilty of loving the idea of Jesus without actually loving Jesus. Our obedience or lack thereof will always bear witness to who we really are. The good news is that God is slow to anger and abounding in steadfast love.",
+            "references": ["Exodus 34:6"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "God is even more merciful than we have imagined him to be! He is always ready to forgive and restore those who turn to him in genuine repentance and faith.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "1 John 1:9",
+            "references": [],
+            "quote": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.",
+            "header": ""
+          }
+        ]
+      }
+    ]
+  }
 ]
