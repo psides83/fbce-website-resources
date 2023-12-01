@@ -1777,5 +1777,60 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231201",
+    "date": "Dec 1, 2023",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent23",
+    "seriesTitle": "Famine in a House of Bread – Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent",
+    "cardDescription": "",
+    "title": "Famine In A House of Bread",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 1:1",
+            "references": [],
+            "quote": "\"In the days when the judges ruled there was a famine in the land, and a man of Bethlehem in Judah went to sojourn in the country of Moab, he and his wife and his two sons.\"",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Bethlehem. Literally, it means “house of bread” or “house of food.” How ironic, then, that this story should begin with a famine in a place where there was supposed to be plenty! But isn’t that the way life is? The places, people, and ideas that seem to promise so much eventually leave us disappointed and unsatisfied. Many of us will not experience a shortage of daily food, but everyone knows what it is to be anxious and empty. The story of Ruth reminds us that God makes and delivers on his promises even in the midst of hard times. Amid the groanings of this life we can find God’s promise of plenty. It’s when we are at the end of ourselves that we find that he is truly enough!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The story of Ruth and Naomi can guide us through the Advent season with hope and anticipation. We have all experienced the loss of loved ones and the grief that so plagues this season as we gather to a table that is increasingly emptier than it was a year before. And even if we enjoy the holidays, we know the let down that ensues as the festivities come to an end and we are left to ponder the marching of time once again. Ruth and Naomi’s story is our story. It begins with a famine in a land where there once was plenty. And though circumstances seem hopeless, there is a persistent echo of expectation....the promise that one day we will experience the absolute fullness for which we were created!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Famine has often played a major role in God’s plan of redemption. God used famine to force Jacob’s family to Egypt, where they would be saved by the brother they had once  forsaken. It was this very famine that put Joseph in a position to rule over all of Egypt where Israel flourished for hundreds of years.  The story of Ruth also begins with a famine. It begins at a time when God’s people are empty. But like the Christmas story we know so well, the story of Ruth ends with hands and hearts that are full, not only of grain but of a promised child. The story of Ruth is providentially intertwined with the story of Christ’s coming to Bethlehem. For the famine in this “house of bread” ends with the promise of the Bread of Life himself!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
