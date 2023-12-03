@@ -1909,5 +1909,70 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231203",
+    "date": "Dec 3, 2023",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent23",
+    "seriesTitle": "Famine in a House of Bread – Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "People say God’s timing is always perfect, but sometimes it’s hard to truly believe it.",
+    "title": "Timing",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 1:6-7",
+            "references": [],
+            "quote": "\"[6] Then she arose with her daughters-in-law to return from the country of Moab, for she had heard in the fields of Moab that the LORD had visited his people and given them food. [7] So she set out from the place where she was with her two daughters-in-law, and they went on the way to return to the land of Judah.\"",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "People say God’s timing is always perfect, but sometimes it’s hard to truly believe it. I find myself wondering, why couldn’t the famine have ended before Naomi lost her husband and her sons? It seems so cruel. The famine drove this family from their home, and then after Naomi had lost everything dear to her, “the Lord visited his people and gave them food.” ",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "This part of the story reminds me of another time when God seemed to be taking too long. Jesus and his disciples had just gotten word that Lazurus was near death. But rather than immediately traveling to heal Lazarus, Jesus waited. His stated reason for the delay is found in John 11:4, “But when Jesus heard it he said, ‘This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it.’” We know the rest of the story. Jesus arrived four days later, and then did the impossible. He raised Lazarus from the dead!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "If Jesus had not waited, then he would never have raised Lazarus, and those present would never have experienced his power to save, even from death. If there had been no famine in Judah, Naomi’s family would never have gone to Moab; the kindness and loyalty of Ruth would not have been showcased. There would be no story of redemption. Whether at Christmas or any other part of the year, we can trust God’s timing. Even if we don’t like it. Even if it’s painful. We can remember the words of the prophet Isaiah,",
+            "references": [],
+            "quote": "“ [8] For my thoughts are not your thoughts,         neither are your ways my ways, declares the LORD.      [9] For as the heavens are higher than the earth,         so are my ways higher than your ways         and my thoughts than your thoughts.”",
+            "header": "Isaiah 55:8-9"
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "No matter our circumstances, we can trust that God sees the end from the beginning. He loves us, sees us, and knows what is best for us. His timing is perfect!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
