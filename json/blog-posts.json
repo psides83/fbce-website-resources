@@ -2194,5 +2194,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231206",
+    "date": "Dec 6, 2023",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "Going home again can be difficult, especially when you feel like you are less than what you were when you left",
+    "title": "Return to the House of Bread",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 1:19-22",
+            "references": [],
+            "quote": "<span>[19] \"So the two of them went on until they came to Bethlehem. And when they came to Bethlehem, the whole town was stirred because of them. And the women said, “Is this Naomi?”<br/> [20] She said to them, “Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.<br/> [21] I went away full, and the LORD has brought me back empty. Why call me Naomi, when the LORD has testified against me and the Almighty has brought calamity upon me?”<br/><br/>  [22] So Naomi returned, and Ruth the Moabite her daughter-in-law with her, who returned from the country of Moab. And they came to Bethlehem at the beginning of barley harvest.\"<span/>",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Going home again can be difficult, especially when you feel like you are less than what you were when you left and you are the subject of conversation in a small town. Naomi (which means “pleasant”) felt like the Lord was against her. She believed that God was testifying to everyone that she had sinned in some way and deserved the misfortune and tragedy that had struck her. This was a common belief in ancient cultures and particularly among Hebrews.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "When Job lost his sons, his friends wondered what he had done to deserve it",
+            "references": ["Job 4:7"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "When Jesus’ disciples saw a man who was blind from birth, they asked Jesus whether he or his parents had sinned",
+            "references": ["John 9:2"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "“Jesus answered, ‘It was not that this man sinned, or his parents, but that the works of God might be displayed in him.’” This perspective could easily be applied to Naomi, for we know the end of the story. But in the moment she truly feels rejected by God, and if we have ever felt that way before, then we shouldn’t be too quick to dismiss her response as being dramatic. The loss she has experienced is great. And the pain she feels is understandable. When Job’s friends sat with him in his sorrow, they were good friends. But they became unhelpful when they began trying to counsel him without truly understanding the situation.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Naomi’s desire to be called Mara (“bitter”), is an expression of the emptiness she feels. And yet, Naomi cannot see the full picture of what God is doing. They return when the first barley is ready to be harvested, a reminder of God’s provision and  foreshadowing of blessings to come. Ultimately, Naomi’s sorrow will not last. She will experience pleasantness again. And the full harvest that is coming will be brought to her by way of the Moabite daughter-in-law who refused to leave her side.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "This return to Bethlehem is bittersweet. Naomi must endure not only the grief of loss but also the reality of loneliness and the fear of an uncertain future. At the same time, this return to the House of Bread will prove to be the ultimate salvation not only for Naomi and Ruth but also for the world! Wherever God has you right now, know that is doing something there. His plan is perfect and his purposes will be accomplished.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
