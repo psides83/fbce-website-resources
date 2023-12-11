@@ -2480,5 +2480,72 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231210",
+    "date": "Dec 10, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "Even when she was bitter over her loss, she still expressed faith in God’s sovereignty over her situation.",
+    "title": "Taking God At His Word",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 3:1-5",
+            "references": [],
+            "quote": "<span>[1] Then Naomi her mother-in-law said to her, “My daughter, should I not seek rest for you, that it may be well with you?<br/> [2] Is not Boaz our relative, with whose young women you were? See, he is winnowing barley tonight at the threshing floor.<br/> [3] Wash therefore and anoint yourself, and put on your cloak and go down to the threshing floor, but do not make yourself known to the man until he has finished eating and drinking.<br/> [4] But when he lies down, observe the place where he lies. Then go and uncover his feet and lie down, and he will tell you what to do.”<br/> [5] And she replied, “All that you say I will do.”<span/>",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Upon hearing from Ruth all that transpired in the fields, Naomi sees a strategic opportunity in light of Boaz’ kindness. She prepares Ruth to perform what was likely a cultural custom in those days of asking a kinsman to redeem his relatives. This was essentially a marriage proposal. Boaz would marry Ruth and thereby acquire the ladies and their land as his own. This would not only provide financially for the two widows but more importantly preserve the family name and inheritance of Elimelech.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "In today’s western culture, Naomi’s instructions may sound provocative and demeaning. But this is actually an act of faith on Naomi’s part. She is not a madam trying to peddle her daughter-in-law for her own benefit. In fact, she shows primary concern for Ruth",
+            "references": ["Ruth 3:1"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Naomi is acting on the very laws of Moses (given by God), which in this case allow for both widows’ survival",
+            "references": ["Deut. 25:5-10"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "She sees this opportunity as a gift from the Lord.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "We would do well to learn from Naomi’s act of faith. Even when she was bitter over her loss, she still expressed faith in God’s sovereignty over her situation. And here, she sees the Lord open a door, and she is willing to walk through it. She knew the law of Moses, she found Boaz to be a kind and righteous man, and she acted on these two realities. In life, we can do no better than to know what God has revealed about himself and what he requires and then act on that knowledge. That is the essence of faith. We simply take God at his word and trust that he will make a way. And Christmas is a great reminder that God has made a way. May this season bring about deeper faith as you stand on God’s word, no matter your circumstances!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
