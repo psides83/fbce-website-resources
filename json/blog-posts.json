@@ -2618,5 +2618,78 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231212",
+    "date": "Dec 12, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "The word advent means “coming” and refers to both Jesus’ first coming and his second.",
+    "title": "Daily Bread",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 3:14-18",
+            "references": [],
+            "quote": "[14] So she lay at his feet until the morning, but arose before one could recognize another. And he said, “Let it not be known that the woman came to the threshing floor.” [15] And he said, “Bring the garment you are wearing and hold it out.” So she held it, and he measured out six measures of barley and put it on her. Then she went into the city. [16] And when she came to her mother-in-law, she said, “How did you fare, my daughter?” Then she told her all that the man had done for her, [17] saying, “These six measures of barley he gave to me, for he said to me, ‘You must not go back empty-handed to your mother-in-law.’” [18] She replied, “Wait, my daughter, until you learn how the matter turns out, for the man will not rest but will settle the matter today.”",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The fact that Boaz and Ruth meet at the threshing floor is very poignant. The whole story revolves around famine and harvest…emptiness and fullness. Boaz' kindness in sending Ruth away with her hands full of grain is a sign that she has found favor not only in his sight but also the LORD’s. God is providing even while these widows’ future seems to hang in the balance.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "This truth reminds us of the words in Jesus’ model prayer….”Give us this day our daily bread”",
+            "references": ["Matt. 6:9-13"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "God provides for our daily needs. We are charged with working and striving, but he is the one who makes the provision a reality. He gives us strength and opportunity (as in the case of Ruth) or places people in our lives who act on our behalf if we aren’t able to work (as in the case of Naomi). And he does this for everyone, not just believers",
+            "references": ["Matt. 5:45"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "This is an expression of the undeserved kindness of the LORD, and we should not take it for granted. In fact, it should breed genuine faith in our hearts.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The word advent means “coming” and refers to both Jesus’ first coming and his second. To truly observe and celebrate this season…to get the most out of it…we need to remember the Lord’s past and daily provision and trust him for that of the future. We have the opportunity not only to celebrate Christ’s taking on human flesh, becoming like us in our weakness",
+            "references": ["Heb. 4:15"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "but also to anticipate his return as the ultimate judge and king who will make everything right! And in the meantime, those who trust him  (which means to honor and obey his word) can know that he will provide what is needed day by day.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
