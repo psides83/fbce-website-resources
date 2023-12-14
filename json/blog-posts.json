@@ -2788,5 +2788,100 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231214",
+    "date": "Dec 14, 2022",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "Boaz was redeeming Ruth in order to “perpetuate the name of the dead in his inheritance.”",
+    "title": "All In the Family",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 4:7-10",
+            "references": [],
+            "quote": "[7] Now this was the custom in former times in Israel concerning redeeming and exchanging: to confirm a transaction, the one drew off his sandal and gave it to the other, and this was the manner of attesting in Israel. [8] So when the redeemer said to Boaz, “Buy it for yourself,” he drew off his sandal. [9] Then Boaz said to the elders and all the people, “You are witnesses this day that I have bought from the hand of Naomi all that belonged to Elimelech and all that belonged to Chilion and to Mahlon. [10] Also Ruth the Moabite, the widow of Mahlon, I have bought to be my wife, to perpetuate the name of the dead in his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his native place. You are witnesses this day.” ",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "This is another climax in the story. Boaz finally becomes the redeemer! But here, we are reminded that the redemption was never just about Ruth and Naomi. It was about Elimelech and his sons as well. Boaz was redeeming Ruth in order to “perpetuate the name of the dead in his inheritance.” What does that mean?",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Israel had been promised the land from Yahweh and had been brought into the land to settle and secure it. Every tribe and family had received a share in the land, and this was a large part of the inheritance of each family to be passed down from generation to generation",
+            "references": ["Joshua 13-24"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "If a man died without having any sons, there would be no one to inherit the land and keep the estate in the family. That person’s name would be “cut off” from the rest of the nation unless a close relative could redeem the land to keep it in the family",
+            "references": ["Deut. 25:5-10", "Lev. 25:23-34"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "The land wasn’t merely of material significance; it represented the family’s share in the covenant promises of God. So the inheritance was as much spiritual as it was material or economical. For the land and inheritance to be lost was synonymous with not belonging to God’s people anymore. Boaz’ eagerness to redeem Naomi by marrying Ruth represents not only his honoring of God’s law and faith in God’s promises but also his concern for his dead relative Elimelech and his family line. He is agreeing to create a new family line on behalf of those who died so that their name will not be “cut off” from the land that God promised.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The prophet Isaiah foretold of one who would be “cut off from the land of the living” and “stricken for the transgressions of my [God’s] people”",
+            "references": ["Isa. 53:8"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "The New Testament reveals Jesus Christ as Isaiah’s Suffering Servant. The Bible also describes all peoples of the world as being “cut off” or separated from God",
+            "references": ["Eph. 2:11-12"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Ephesians 2:13 makes clear that Christ was cut off so that we might be brought near. Now, because of Christ's redemption through his death on the cross, all who believe in him are children of God and co-heirs in his eternal inheritance!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "There is no longer concern for perpetuating an earthly family name or inheritance. Christ now perpetuates his name through we who believe. For we who are in Christ, our inheritance is eternally secured by the blood of Jesus. We are part of a spiritual family that lasts forever, whether we are Jew or Gentile, male or female, rich or poor, black or white, married or single, whether we have 7 children or no children at all. We are a part of God’s eternal family through faith in Christ",
+            "references": ["John. 1:12"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "We all were once cut off, separated from God. But through Christ we have been brought near! We now bear his name….forever!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
