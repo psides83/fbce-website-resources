@@ -2883,5 +2883,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231215",
+    "date": "Dec 15, 2023",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "More than three thousand years later, we celebrate the fulfillment of their prayer.",
+    "title": "Big Things In Small Places",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Ruth 4:11-12",
+            "references": [],
+            "quote": "[11] Then all the people who were at the gate and the elders said, “We are witnesses. May the LORD make the woman, who is coming into your house, like Rachel and Leah, who together built up the house of Israel. May you act worthily in Ephrathah and be renowned in Bethlehem, [12] and may your house be like the house of Perez, whom Tamar bore to Judah, because of the offspring that the LORD will give you by this young woman.”",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The story of Ruth is full of names. Names matter because they reflect and represent what a person does and who a person is. In a word, a person’s name is his or her reputation. Rachel and Leah were significant figures in Israel’s history because they were integral to God‘s plan to build up Israel into a nation of families that would reflect Yahweh’s greatness in the world.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "But this prayer also includes the names of Judah and Tamar. If you know their story, you know it is a messy one",
+            "references": ["Gen. 38"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Judah had two sons who had been married to Tamar but had borne her no children. After these two sons had died due to their unfaithfulness to God, Judah promised his younger son to Tamar once he came of age. But Judah did not follow through. So Tamar deceived Judah into bearing her a child himself. It’s difficult for many modern westerners to understand all of this because we don’t live in the same culture or historical moment. Still, we need to understand that bearing children was a huge honor and privilege in the ancient world. And the more sons you had the more blessed you were perceived to be. Carrying on the family name was an essential component of one’s identity. It was even more important to the people of Israel, who were awaiting God’s fulfillment of his promise to Abraham to raise up offspring who would bring salvation and blessing to all nations",
+            "references": ["Gen. 12:3", "Gal. 3:7-8"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The blessing that these elders and witnesses pronounced over Ruth was a big one. Up to this point Ruth had been barron like so many others. Yet, like so many others, God was about to open her womb and bless her with a child. And this child would bring more blessing than anyone could have imagined!",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "I can’t help but think these witnesses were clinging to God’s promise in Genesis 3:15, that the offspring of the woman would crush the head of the serpent. This was of course in the midst of God‘s curse on the earth and the serpent himself. From that point, on people who understood God’s promise in the middle of such darkness might be hoping every time a baby was born that it would be the promised Savior. We know that Ruth’s son was not the promised savior, but as we near the end of the book of Ruth we also know that the promised Savior came from his line. So the prayer was answered nonetheless, and here we are celebrating yet again the advent,  the coming of the Savior of the world.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The witnesses prayed that Bethlehem and the region of Ephratha would be renowned because of the child that would be born to Ruth and Boaz. More than three thousand years later, we celebrate the fulfillment of their prayer. We celebrate the coming of our Lord to Bethlehem, the house of bread. It’s no less than amazing and it’s just like God to do great things in small places with seemingly insignificant and even sinful people.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
