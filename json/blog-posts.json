@@ -3386,5 +3386,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231222",
+    "date": "Dec 22, 2023",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "The significance of Bethlehem in the story of the Bible reminds us that God has providentially ordered history to find all its fulfillment in Jesus.",
+    "title": "Bread of Heaven in the House of Bread",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "Micah 5:1-2",
+            "references": [],
+            "quote": "<span>[1]  Now muster your troops, O daughter of troops;         siege is laid against us;     with a rod they strike the judge of Israel         on the cheek.<br/>      [2]  But you, O Bethlehem Ephrathah,         who are too little to be among the clans of Judah,     from you shall come forth for me         one who is to be ruler in Israel,     whose coming forth is from of old,         from ancient days.<span/>",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Bethlehem was the place in which Ruth and Naomi’s story unfolded. It was the home of Elimelech’s clan which included Boaz. It was a seemingly insignificant place, but in God’s plan it was significant enough. And this tiny place came to be known as the city of David because of a once insignificant shepherd boy who lived there but became the great king of Israel. God blessed David unlike any of his other servants. But even David’s days were numbered. Yet, the Lord had made a promise that one of David’s descendants would reign on the throne of Jerusalem forever",
+            "references": ["2 Sam. 7:15"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Micah 5:2 is a well known Bible verse around Christmas time because it explicitly names the place from which the promised Messiah would come. It is the text which the chief priests and scribes used to determine the birthplace when Herod inquired of the newborn king",
+            "references": ["Matt. 2:5-6"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "But when Jesus came to Bethlehem, he didn’t receive the welcome that Ruth had received from Boaz. He came to a lowly stable in this House of Bread on a bed of hay.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Herod was the steward-king in Judah at the time of Jesus’ birth and tried to kill the promised child",
+            "references": ["Matt. 1:1-18"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "His attempt failed not because his forces weren’t formidable or because Bethlehem was a metropolis. He knew the place which Micah’s prophecy marked as the birth of the king but he failed to realize just what kind of king was promised.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "The significance of Bethlehem in the story of the Bible reminds us that God has providentially ordered history to find all its fulfillment in Jesus. There was a famine at the House of Bread so that Naomi might ultimately experience fullness and so that Boaz and Ruth would create a royal line for the promised Savior King. Jesus’ arrival was cloaked by insignificance so that those who would seek to make him an earthly king would not search him out and so that those who would seek to kill him were unsuccessful. All this so that one day Christ could go to the cross to redeem fallen mankind from sin and self. The Bread from Heaven was born in the House of Bread so that we might experience him as the Bread of Life",
+            "references": ["John 6:35"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
