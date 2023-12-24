@@ -3463,5 +3463,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "20231223",
+    "date": "Dec 23, 2023",
+    "author": "Jeremy Brown",
+    "authorImage": "https://psides83.github.io/fbce-website-resources/images/jeremy-brown.jpg",
+    "image": "https://psides83.github.io/fbce-website-resources/images/advent23.jpg",
+    "isSeries": true,
+    "seriesId": "advent",
+    "seriesTitle": "FAMINE IN A HOUSE OF BREAD: Reflections on Advent from the story of Ruth",
+    "cardLabel": "Advent '23",
+    "cardDescription": "While most of his followers thought he had come to overthrow the Roman government, Jesus knew that his mission was to meet their deepest need, forgiveness of sin.",
+    "title": "Bread of Life (Part 1)",
+    "paragraphs": [
+      {
+        "sections": [
+          {
+            "text": "John 6:15",
+            "references": [],
+            "quote": "[15] Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself.",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Jesus had miraculously fed thousands with two fish and a few loaves of bread. This was not his first miracle, but it was one of the most public ones. In fact, when the crowds saw what he had done they wanted to install him as king as soon as possible.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Even from David’s time, it was the king’s responsibility to ensure provision and promote prosperity for his kingdom. It was even more important in Israel that the king be a spiritual leader of God’s people, maintaining right worship of the Lord. David was a great king because under his leadership, Israel thrived economically and spiritually. Not since David’s time had the land of Israel known such peace. So, if Jesus was the true king sent from Heaven, why wouldn’t he allow the people to install him as the king? Isn’t this why he came?",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "While most of his followers thought he had come to overthrow the Roman government, Jesus knew that his mission was to meet their deepest need, forgiveness of sin. If we miss this, then we are no better than Herod who rejected Jesus for fear of losing his claim to the throne. In truth, we all must come to a place when we humbly submit to Christ as Lord, and the Advent season is a wonderful opportunity to do just that.",
+            "references": [],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      },
+      {
+        "sections": [
+          {
+            "text": "Just as Jesus knew the hearts of those who ate their fill in John 6, he knows your heart too. On that day, the crowd misunderstood his coming, but we don’t have to make the same mistake. We live on the backside of Jesus’ earthly life and of his death and resurrection. The incarnation of Christ reminds us that God loves us because when we could not get to him, he came to us! And he came to give us life, though what we deserve because of our sin is death",
+            "references": ["Rom. 6:23"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "We may think that relational strife is our biggest problem, but it’s not. We may think that financial struggles are our biggest problem, but they are not. We may feel like our loss defines us and our best days are behind us, but this is a lie. These are only symptoms of a much bigger problem….our sin and the separation it causes between us and the Lord. But God loved us in such a way that he came to us and gave himself for us that we may have life",
+            "references": ["John 3:16"],
+            "quote": "",
+            "header": ""
+          },
+          {
+            "text": "Jesus is the best King because he cares for all our needs, beginning with the deepest ones. Jesus is to our broken souls what bread is to our aching bellys….Jesus is the Bread of Life",
+            "references": ["John 6:35"],
+            "quote": "",
+            "header": ""
+          }
+        ]
+      }
+    ]
   }
 ]
