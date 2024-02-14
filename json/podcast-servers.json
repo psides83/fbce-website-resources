@@ -1,36 +1,36 @@
 [
   {
-    "platform": "Apple Podcasts",
+    "title": "Apple Podcasts",
     "url": "https://podcasts.apple.com/us/podcast/the-inquiry-room/id1729284644",
     "imgUrl": "https://psides83.github.io/fbce-website-resources/images/apple-podcasts-icon.PNG"
   },
   {
-    "platform": "Spotify",
+    "title": "Spotify",
     "url": "https://open.spotify.com/show/6343KBQfqmGiQ9YK5gQpem",
     "imgUrl": "https://d1f8ha51vzawnk.cloudfront.net/images/podcast/logo-square/006/spotify.png"
   },
   {
-    "platform": "YouTube",
+    "title": "YouTube",
     "url": "https://youtube.com/playlist?list=PLkSQb7eVv34q8aRswZjgpAOgy18esm1xc&si=tEjC0ZulSVerEX5o",
     "imgUrl": "https://psides83.github.io/fbce-website-resources/images/youtube-icon.PNG"
   },
   {
-    "platform": "iHeart Radio",
+    "title": "iHeart Radio",
     "url": "https://www.iheart.com/podcast/269-the-inquiry-room-148063479/",
     "imgUrl": "https://psides83.github.io/fbce-website-resources/images/iheart-icon.PNG"
   },
   {
-    "platform": "Prime Music",
+    "title": "Prime Music",
     "url": "https://music.amazon.com/podcasts/7721c2c0-af37-4997-99fc-e6766f6c9a47/the-inquiry-room",
     "imgUrl": "https://psides83.github.io/fbce-website-resources/images/prime-music-icon.PNG"
   },
   {
-    "platform": "Castbox",
+    "title": "Castbox",
     "url": "https://castbox.fm/channel/id6012562?utm_source=website&amp;utm_medium=dlink&amp;utm_campaign=web_share&amp;utm_content=ChurchTalks-CastBox_FM",
     "imgUrl": "https://psides83.github.io/fbce-website-resources/images/castbox-icon.PNG"
   },
   {
-    "platform": "Google Podcast",
+    "title": "Google Podcast",
     "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mMWJlNjAxYy9wb2RjYXN0L3Jzcw",
     "imgUrl": "https://psides83.github.io/fbce-website-resources/images/google-podcast-icon.PNG"
   }
