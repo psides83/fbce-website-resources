@@ -1,0 +1,28 @@
+[
+  {
+    "day": "Sunday",
+    "times": [
+      {
+        "title": "Sunday School",
+        "time": "9:15 AM"
+      },
+      {
+        "title": "Worship Service",
+        "time": "10:30 AM"
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "times": [
+      {
+        "title": "Prayer Meeting",
+        "time": "6:30 PM"
+      },
+      {
+        "title": "Glory Bound Youth & Children",
+        "time": "6:30 PM"
+      }
+    ]
+  }
+]
